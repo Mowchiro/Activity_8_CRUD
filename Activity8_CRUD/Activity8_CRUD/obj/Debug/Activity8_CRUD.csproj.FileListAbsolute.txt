@@ -1,0 +1,11 @@
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\bin\Debug\Activity8_CRUD.exe.config
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\bin\Debug\Activity8_CRUD.exe
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\bin\Debug\Activity8_CRUD.pdb
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.csproj.AssemblyReference.cache
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.Form1.resources
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.Properties.Resources.resources
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.csproj.GenerateResource.cache
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.exe
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.pdb
+C:\Users\One\source\repos\Activity8_CRUD\Activity8_CRUD\obj\Debug\Activity8_CRUD.exe.config
